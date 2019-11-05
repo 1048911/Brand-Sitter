@@ -1,5 +1,4 @@
 # Brand-Sitter
-*** MAKE SURE YOU SELECT "BRAND-SITTER" FROM THE DROP-DOWN MENU AS THE TARGET APP WHEN RUNNING APP, AS "SWIFTER" HAS ALSO BEEN INCLUDED IN THE FILES***
 
 An app that uses machine learning to classify the average connotation of the most recent 100 tweets for a specific hashtag or Twitter username
 
